@@ -1,0 +1,12 @@
+
+Trace/Trace/main.cpp
+
+*.pbxproj
+
+*.xcworkspacedata
+
+*.xcuserstate
+
+*.xcscheme
+
+*.plist
