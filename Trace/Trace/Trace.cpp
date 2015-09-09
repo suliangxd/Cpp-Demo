@@ -7,7 +7,6 @@
 //
 
 #include "Trace.h"
-
 inline
 Trace::Trace(const char *name):theFunctionName(0)
 {
